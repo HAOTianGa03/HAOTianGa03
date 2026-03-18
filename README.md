@@ -27,12 +27,6 @@
 - 🧠 **具身智能算法 (Embodied AI):** 强化学习、模仿学习以及基于 VLA 的机器人控制
 - 🔌 **机器人中间件 (Robot Middleware):** 熟悉 ROS / ROS 2 等机器人通信与控制生态
 
-### 📊 GitHub 统计 (Stats)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HAOTianGa03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="HAOTianGa03's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HAOTianGa03&theme=tokyonight&hide_border=true&background=0D1117" alt="HAOTianGa03's GitHub Streak" />
-</div>
 
 ---
 *If you are interested in my work, feel free to reach out!* 🚀
