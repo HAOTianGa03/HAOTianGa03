@@ -1,4 +1,4 @@
-# Hi there, I'm HAOTianGa03 👋
+# Hi there, I'm GAOTIANHAO 👋
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=50&animation=fadeIn" width="100%" />
